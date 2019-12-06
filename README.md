@@ -54,8 +54,8 @@ _Note: Class activities are group but individual submissions are required for gr
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
    1. List the group members below.
    
-   #### - Mustafa Azam
    #### - Jesus Castaneda Magallanes
+   #### - Mustafa Azam
    #### - Jorge Toledano
    #### - Bao Huynh
    #### - Logan Pennell
