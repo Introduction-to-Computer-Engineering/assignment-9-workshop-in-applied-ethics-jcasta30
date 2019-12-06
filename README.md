@@ -40,7 +40,8 @@
 	
 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
 
-#### 	An example that comes to mind is 
+#### 	An example that comes to mind is the Gilded Age. In the US, the Gilded Age was a period of transformation that was characterized by economic and industrial growth, increased political participation, immigration, and social reform. This transformation forged a modern, national industrial society. It changed, the economy, technology, government, and social customs of America. However, the Gilded Age also brought major problems to individuals. Several of problems include, a corrupted government in charge of individuals (big businesses dominated the economy), problems for farmers, and problems for overall workers. For example, industrial workers did not share in the joy and prosperity, as they worked long hours in dangerous conditions for such a low pay. Not to mention that politicians at this time were largely corrupt and ineffective. In addition, immigrants faced rough times, as they faced discrimination in education, housing, and jobs. Moreover, Native Americans were often forced off their lands and away from their culture against their will.
+
 	
 3. **(BONUS)** Ethical codes are vulnerable to the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons). An ethical code relies on the _cooperation_ of the individuals. Discuss how rogue behavior (aka _defection_) with respect to the ethical code of a group gives rise to the [prinsoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) and the eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of defection and, as a result, would mitigate the danger to the code?
 
@@ -81,7 +82,8 @@ _Note: Class activities are group but individual submissions are required for gr
  #### (ii) after enough time for it to be absorbed into everyday life.
 #### - After enough time for it to be absorbed into everyday life: A society is built within the software that is then intergrated into our real world society; providing jobs, entertainment, education, and other opportunities to people all around the world. However, our tech could possibly bring down social interaction in real life and possibly de-evolve our real life society, as the VR world blossoms. It will be unsure at this point if this invention will be evolutionary or devolutionary for humans.
    
-3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? (By implementing and following our code of Ethics.)
+3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
+#### (By implementing and following our code of Ethics.)
    1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
 ####   	1. Changes to this code of ethics require a unanimous vote from all group members. This rule cannot be changed in any way.  
 #### 	2. All group members have joint governance over the product and updates to the hardware and software of the product, which will require unanimous votes. 
