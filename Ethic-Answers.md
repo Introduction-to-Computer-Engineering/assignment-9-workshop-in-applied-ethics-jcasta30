@@ -1,8 +1,8 @@
 # CPE 1040 - Introduction to Computer Engineering
 
-## Workshop In Applied Ethics
+## Workshop In Applied Ethics (Same answers also in README.md)
 
-#### 	Answer the Questions
+#### 	Answer the Questions 
 
 #### 1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
 	
