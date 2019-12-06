@@ -97,6 +97,7 @@ _Note: Class activities are group but individual submissions are required for gr
 
 #### 4. **(BONUS)** Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall. 
  Rules removed:
+ 
  3. Private user data must stay confidential, and can not be sold for profit by any team members.
  4. All items/ technology in the company shall be confidential, unless otherwise noted.
  8. A person breaking any part of the code of conduct, will be subject to evaluation which may result in immediate termination.
