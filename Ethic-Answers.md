@@ -36,7 +36,7 @@ Rogue behavior with respect to the ethical code of a group, can bring down other
    #### 3. Describe your technical innovation below.
     - A fully immersed virtual reality system. Shuts down bodily functions and creates a virtual world inside your mind to make the feeling of virtual reality feel more realistic. Accomplished using advanced brain-computer interface technology.
    
-#### Describe the ways your innovation, if realized, would affect society. 
+#### 2. Describe the ways your innovation, if realized, would affect society. 
 #### 1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms that you can embed: 
   - Lack of real world interaction: Limit the time one can use the VR technology at a time.
   - Harmful to body health: Lock hardware until certain amount of body care is performed. Will require users to meet an exercise quota. Our technology will determine if your body health is decreasing. 
